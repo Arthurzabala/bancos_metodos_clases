@@ -44,6 +44,6 @@ cuenta1 = CuentaBancaria(.09, 200)
 cuenta1.deposito(100).deposito(200).deposito(120).retiro(50).interes().info()
 
 cuenta2 = CuentaBancaria(.03, 500)
-# 100->110->121->133.1
+
 
 CuentaBancaria.info_todas()
